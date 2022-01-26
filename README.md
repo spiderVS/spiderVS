@@ -9,7 +9,7 @@
 
 ### Connect with me: 
 
-[<img align="left" alt="Mail" width="24" src="https://github.com/github/explore/blob/6b7b12004a5d1779e74c0d1767d0b2400e6c7d64/topics/gmail/gmail.png" />](https://t.me/spiderVS)fuzzy003@gmail.com
+[<img align="left" alt="Mail" width="24" src="https://github.com/github/explore/blob/6b7b12004a5d1779e74c0d1767d0b2400e6c7d64/topics/gmail/gmail.png" />](fuzzy003@gmail.com)fuzzy003@gmail.com
 
 [<img align="left" alt="Telegram" width="24" src="https://github.com/github/explore/blob/6b7b12004a5d1779e74c0d1767d0b2400e6c7d64/topics/telegram/telegram.png" />](https://t.me/spiderVS)[@spiderVS](https://t.me/spiderVS)
 
