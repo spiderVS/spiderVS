@@ -1,13 +1,13 @@
-### Hi there, I’m Anatoly 👋 
+### Hi there, I’m Anatoly 👋
 ---
-## I'm a FrontEnd Developer 
+## I'm a FrontEnd Developer
 
 - 💻 I like to write code
 - 🚀 I'm constantly learning new things and I like it 👍
 - 📈 I like to set big goals and go to them from day to day
-- 🚴‍♀️ I love hiking, backpacking, traveling 🚴‍♀️
+- 🚴‍♀️ I love hiking, backpacking, traveling
 
-### Connect with me: 
+### Connect with me:
 
 <img align="left" alt="Mail" width="24" src="https://github.com/github/explore/blob/6b7b12004a5d1779e74c0d1767d0b2400e6c7d64/topics/gmail/gmail.png" />fuzzy003@gmail.com
 
